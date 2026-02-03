@@ -1,5 +1,5 @@
 ---
-title: "nabiyon lan sila elif karaagac"
+title: "şakşuka tarifi"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
